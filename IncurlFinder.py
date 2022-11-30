@@ -65,3 +65,5 @@ for i in 字典.keys():
 
         print(文章[l:r+1])
     print (" ")
+
+input()
